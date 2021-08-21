@@ -26,7 +26,7 @@ Durante o desenvolvimento, foi ensinado sobre relacionamento `Many to Many`, uti
 ```bash
 
     // Clonar repositório
-    $ git clone https://github.com/danileao/permissions_users
+    $ git clone https://github.com/RodrigoName/NodeJs-BackEnd-User.git
 
     // Acessar diretório
     $ cd permissions_users
